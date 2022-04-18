@@ -27,8 +27,25 @@ a:visited {
     color: var(--light-accent);
     padding: 7px;
     margin-top: -20px;
+    margin-bottom: 20px;
 }
 
 .purp-text {
     color: var(--dark-accent);
+}
+
+.purp-bg {
+    background-color: var(--light-accent);
+}
+
+.purp-border {
+    border: 5px solid var(--dark-accent);
+}
+
+.card {
+    margin: 10px;
+}
+
+#work {
+    margin-top: 20px;
 }
