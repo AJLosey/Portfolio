@@ -5,6 +5,10 @@
 
 }
 
+body {
+    background-color: lightslategray;
+}
+
 .navbar {
     background-color: var(--light-accent);
     color: var(--dark-accent);
