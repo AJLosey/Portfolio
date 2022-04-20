@@ -1,15 +1,17 @@
 # Advanced-css-homework
 
 Description:
-This is an assignment where we are supposed to match a website. Target website can be found at ./images/finished-example.png. I have a Navbar, a banner, and then three sections of content, for information about me, placeholders for where links to future projects will go, and for contacting me, in that order.
+This is the portfolio that I'm maintaining to document my ability as a developer. I starting it during the UT Austin full-stack coding bootcamp program.
+
+Technology used:
+html, css, bootstrap
 
 Screenshot:
-./images/Screenshot.png
+![Portfolio Screenshot](./images/portscreenshot.png)
 
 Deployed page:
-https://ajlosey.github.io/Advanced-css-homework/
+[Portfolio](https://ajlosey.github.io/Portfolio/)
 
 Additional notes:
-./images/AvatarMaker.png is a stand-in for more professional photo of my self. Image was generated using https://avatarmaker.com/
-
+None yet
 
