@@ -1,4 +1,5 @@
 import React from 'react';
+import photo from '../images/photo2.jpg'
 
 function About() {
     <div class="container purp-text ">
@@ -6,7 +7,7 @@ function About() {
             <p class="h4" id="about-me">About Me</p>
         </div>
         <div class="row purp-bg py-3">
-            <div class="col-3"><img src="./images/photo2.jpg" alt="photo of me. It's 80% beard"
+            <div class="col-3"><img src={photo} alt="photo of me. It's 80% beard"
                 class="col-12 purp-border px-0" /></div>
             <div class="col-9">
                 <p>I highly recommend that everyone listen to the 2016 album "Spirit Phone"

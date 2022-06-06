@@ -1,6 +1,12 @@
 import React from "react";
-import Nav from './components/Navbar'
-import About from `./components/About`
+import Nav from './components/Navbar';
+import About from `./components/About`;
+import ipsumImg from './images/BioIpsum.png';
+import quizImg from './images/coding-quiz.png';
+import noteImg from './images/note-taker.png';
+import skynotesImg from './images/Skynotes.png';
+import textImg from './images/text-editor.png';
+import triviaImg from './images/Trivia site.png';
 
 function Page() {
     return <body>
@@ -21,23 +27,23 @@ function Page() {
             </div>
             <div class="col-12 row purp-bg justify-content-between">
 
-                <Project img={'./images/BioIpsum.png'} imgAlt={'The title "Bio Ipsum" and some randomly generated text'} title={'Biological Jargon Lorum Ipsum'} deployLink={"https://ajlosey.github.io/Bio-Ipsum/"} repoLink={"https://github.com/AJLosey/Bio-Ipsum"} />
+                <Project img={ipsumImg} imgAlt={'The title "Bio Ipsum" and some randomly generated text'} title={'Biological Jargon Lorum Ipsum'} deployLink={"https://ajlosey.github.io/Bio-Ipsum/"} repoLink={"https://github.com/AJLosey/Bio-Ipsum"} />
 
-                <Project img={"./images/Skynotes.png"} imgAlt={"Buttons for generating music, followed by playlist images with links to listen to them"} title={'Skynotes'} deployLink={"https://mach2258.github.io/Weather-music/"} repoLink={"https://github.com/mach2258/Weather-music"} />
-
-            </div>
-            <div class="col-12 row purp-bg justify-content-between">
-
-                <Project img={"./images/Trivia site.png"} imgAlt={"The title 'Bio Ipsum' and some randomly generated text"} title={'Trivia Quiz Website'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
-
-                <Project img={"./images/text-editor"} imgAlt={"A blue navigation bar above a black text field"} title={'Just Another Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
+                <Project img={skynotesImg} imgAlt={"Buttons for generating music, followed by playlist images with links to listen to them"} title={'Skynotes'} deployLink={"https://mach2258.github.io/Weather-music/"} repoLink={"https://github.com/mach2258/Weather-music"} />
 
             </div>
             <div class="col-12 row purp-bg justify-content-between">
 
-                <Project img={"./images/coding-quiz.png"} imgAlt={"A timer, question, answers, and high scores option"} title={'Timed Code Quiz'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
+                <Project img={triviaImg} imgAlt={"The title 'Bio Ipsum' and some randomly generated text"} title={'Trivia Quiz Website'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
 
-                <Project img={"./images/note-taker.pmg"} imgAlt={"A simple form for notes with some saved entries on the side"} title={'Note Taker'} deployLink={"https://ajlosey.github.io/code-quiz/"} repoLink={"https://github.com/AJLosey/code-quiz"} />
+                <Project img={textImg} imgAlt={"A blue navigation bar above a black text field"} title={'Just Another Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
+
+            </div>
+            <div class="col-12 row purp-bg justify-content-between">
+
+                <Project img={quizImg} imgAlt={"A timer, question, answers, and high scores option"} title={'Timed Code Quiz'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
+
+                <Project img={noteImg} imgAlt={"A simple form for notes with some saved entries on the side"} title={'Note Taker'} deployLink={"https://ajlosey.github.io/code-quiz/"} repoLink={"https://github.com/AJLosey/code-quiz"} />
 
             </div>
         </div>

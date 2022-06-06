@@ -6,8 +6,6 @@ This is the portfolio that I'm maintaining to document my ability as a developer
 Technology used:
 html, css, bootstrap
 
-Screenshot:
-![Portfolio Screenshot](./images/portscreenshot.png)
 
 Deployed page:
 [Portfolio](https://ajlosey.github.io/Portfolio/)
