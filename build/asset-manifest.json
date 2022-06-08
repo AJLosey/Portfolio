@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b4e74b4.css",
+    "main.js": "/static/js/main.cd9495bd.js",
+    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
+    "static/media/Trivia site.png": "/static/media/Trivia site.598c8e270c9b486c6998.png",
+    "static/media/photo2.jpg": "/static/media/photo2.50d84db872f401a928f1.jpg",
+    "static/media/Skynotes.png": "/static/media/Skynotes.94287559c5ebc0da0c8e.png",
+    "static/media/BioIpsum.png": "/static/media/BioIpsum.ac1514646fd9be6b4fb9.png",
+    "static/media/coding-quiz.png": "/static/media/coding-quiz.0b01f939470b35ef2a29.png",
+    "static/media/note-taker.png": "/static/media/note-taker.9215a31341db7161882f.png",
+    "static/media/text-editor.png": "/static/media/text-editor.d9d6072a9fb947fe26a2.png",
+    "index.html": "/index.html",
+    "main.0b4e74b4.css.map": "/static/css/main.0b4e74b4.css.map",
+    "main.cd9495bd.js.map": "/static/js/main.cd9495bd.js.map",
+    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.cd9495bd.js"
+  ]
+}
