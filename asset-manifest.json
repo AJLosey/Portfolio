@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b1a0d938.css",
-    "main.js": "/portfolio/static/js/main.df5072b0.js",
-    "static/js/787.aeca62f9.chunk.js": "/portfolio/static/js/787.aeca62f9.chunk.js",
-    "static/media/Trivia site.png": "/portfolio/static/media/Trivia site.598c8e270c9b486c6998.png",
-    "static/media/photo2.jpg": "/portfolio/static/media/photo2.50d84db872f401a928f1.jpg",
-    "static/media/Skynotes.png": "/portfolio/static/media/Skynotes.94287559c5ebc0da0c8e.png",
-    "static/media/BioIpsum.png": "/portfolio/static/media/BioIpsum.ac1514646fd9be6b4fb9.png",
-    "static/media/coding-quiz.png": "/portfolio/static/media/coding-quiz.0b01f939470b35ef2a29.png",
-    "static/media/note-taker.png": "/portfolio/static/media/note-taker.9215a31341db7161882f.png",
-    "static/media/text-editor.png": "/portfolio/static/media/text-editor.d9d6072a9fb947fe26a2.png",
-    "index.html": "/portfolio/index.html",
-    "main.b1a0d938.css.map": "/portfolio/static/css/main.b1a0d938.css.map",
-    "main.df5072b0.js.map": "/portfolio/static/js/main.df5072b0.js.map",
-    "787.aeca62f9.chunk.js.map": "/portfolio/static/js/787.aeca62f9.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.b1a0d938.css",
+    "main.js": "/Portfolio/static/js/main.9c2d0884.js",
+    "static/js/787.aeca62f9.chunk.js": "/Portfolio/static/js/787.aeca62f9.chunk.js",
+    "static/media/Trivia site.png": "/Portfolio/static/media/Trivia site.598c8e270c9b486c6998.png",
+    "static/media/photo2.jpg": "/Portfolio/static/media/photo2.50d84db872f401a928f1.jpg",
+    "static/media/Skynotes.png": "/Portfolio/static/media/Skynotes.94287559c5ebc0da0c8e.png",
+    "static/media/BioIpsum.png": "/Portfolio/static/media/BioIpsum.ac1514646fd9be6b4fb9.png",
+    "static/media/coding-quiz.png": "/Portfolio/static/media/coding-quiz.0b01f939470b35ef2a29.png",
+    "static/media/note-taker.png": "/Portfolio/static/media/note-taker.9215a31341db7161882f.png",
+    "static/media/text-editor.png": "/Portfolio/static/media/text-editor.d9d6072a9fb947fe26a2.png",
+    "index.html": "/Portfolio/index.html",
+    "main.b1a0d938.css.map": "/Portfolio/static/css/main.b1a0d938.css.map",
+    "main.9c2d0884.js.map": "/Portfolio/static/js/main.9c2d0884.js.map",
+    "787.aeca62f9.chunk.js.map": "/Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a0d938.css",
-    "static/js/main.df5072b0.js"
+    "static/js/main.9c2d0884.js"
   ]
 }
