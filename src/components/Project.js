@@ -1,8 +1,9 @@
 import React from 'react';
+import Card from 'react-bootstrap/Card';
 
 export function Project(props) {
     return (
-        <div className="card col-5 purp-border ">
+        <Card className="card col-5 purp-border">
             <img src={props.img} className="card-img-top"
                 alt={props.imgAlt} />
             <div className="card-body">
@@ -11,6 +12,6 @@ export function Project(props) {
                     rel="noopener noreferrer">Link to page</a><br></br><a href={props.repoLink}
                         target="_blank" rel="noopener noreferrer">Link to github repository</a></p>
             </div>
-        </div>
+        </Card>
     )
 }

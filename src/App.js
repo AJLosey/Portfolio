@@ -17,11 +17,7 @@ function App() {
       <div>
         <Navbar />
       </div>
-      <div className="col-8 row justify-content-end version-box">
 
-        A. Losey Version 2.7 now comes with ability to code!
-
-      </div>
       <div>
         <About />
       </div>
@@ -29,7 +25,7 @@ function App() {
         <div className="col-3">
           <p className="h4" id="work">Work</p>
         </div>
-        <div className="col-12 row purp-bg justify-content-between">
+        <div className="col-12 row purp-bg justify-content-between pt-3">
 
           <Project img={ipsumImg} imgAlt={'The title "Bio Ipsum" and some randomly generated text'} title={'Biological Jargon Lorum Ipsum'} deployLink={"https://ajlosey.github.io/Bio-Ipsum/"} repoLink={"https://github.com/AJLosey/Bio-Ipsum"} />
 
