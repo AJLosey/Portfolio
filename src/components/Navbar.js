@@ -23,7 +23,7 @@ export function Navbar({ setContent }) {
                                 Contact Me
                             </button>
                             <div className="col-2">
-                                <a href="https://drive.google.com/file/d/1_Sa2hdqHL4J_7zCmmWZPTEzb9DD15czZ/view?usp=sharing"
+                                <a href="https://docs.google.com/document/d/1uhSj90kiZ-EfXiE6jyissWxIbGdlgx_zcItK2FqQcow/edit?usp=sharing"
                                     target="_blank" rel="noopener noreferrer">Resume Link</a>
                             </div>
                         </div>
