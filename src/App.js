@@ -4,6 +4,7 @@ import { About } from './components/About';
 import { Project } from './components/Project';
 import { Contact } from './components/Contact';
 import ipsumImg from './images/BioIpsum.png';
+import codleImg from './images/Codle.png'
 import quizImg from './images/coding-quiz.png';
 import noteImg from './images/note-taker.png';
 import skynotesImg from './images/Skynotes.png';
@@ -42,7 +43,7 @@ function App() {
 
             <Project img={triviaImg} imgAlt={"The title 'Bio Ipsum' and some randomly generated text"} title={'Trivia Quiz Website'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
 
-            <Project img={textImg} imgAlt={"A blue navigation bar above a black text field"} title={'Just Another Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
+            <Project img={codleImg} imgAlt={"wordle but styled with a dark grey theme, and a test comment section"} title={'Codle'} deployLink={"https://codle-jsear.herokuapp.com/"} repoLink={"https://github.com/jacef790/Codle"} />
 
           </div>
           <div className="col-12 row purp-bg justify-content-between">
