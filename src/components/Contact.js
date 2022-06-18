@@ -13,7 +13,7 @@ export function Contact() {
                     <li className="list-group-item purp-bg pl-5">Email: aaronlosey11@hotmail.com</li>
                     <li className="list-group-item purp-bg pl-5"><a href="https://github.com/AJLosey">Github Profile</a></li>
                     <li className="list-group-item purp-bg pl-5"><a
-                        href="https://www.linkedin.com/in/aaron-losey-3b9a3b142/">Linkin
+                        href="https://www.linkedin.com/in/aaron-losey-3b9a3b142/">LinkedIn
                         Profile</a>
                     </li>
                 </ul>
