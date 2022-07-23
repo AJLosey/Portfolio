@@ -43,14 +43,14 @@ function App() {
 
             <Project img={triviaImg} imgAlt={"The title 'Bio Ipsum' and some randomly generated text"} title={'Trivia Quiz Website'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
 
-            <Project img={codleImg} imgAlt={"wordle but styled with a dark grey theme, and a test comment section"} title={'Codle'} deployLink={"https://codle-jsear.herokuapp.com/"} repoLink={"https://github.com/jacef790/Codle"} />
+            <Project img={codleImg} imgAlt={"wordle but styled with a dark grey theme, and a test comment section"} title={'Codle'} deployLink={"https://codle-jsear.herokuapp.com/"} repoLink={"https://github.com/AJLosey/Codle-1"} />
 
           </div>
           <div className="col-12 row purp-bg justify-content-between">
 
-            <Project img={quizImg} imgAlt={"A timer, question, answers, and high scores option"} title={'Timed Code Quiz'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
+            <Project img={quizImg} imgAlt={"A timer, question, answers, and high scores option"} title={'Timed Code Quiz'} deployLink={"https://ajlosey.github.io/code-quiz/"} repoLink={"https://github.com/AJLosey/code-quiz"} />
 
-            <Project img={noteImg} imgAlt={"A simple form for notes with some saved entries on the side"} title={'Note Taker'} deployLink={"https://ajlosey.github.io/code-quiz/"} repoLink={"https://github.com/AJLosey/code-quiz"} />
+            <Project img={noteImg} imgAlt={"A simple form for notes with some saved entries on the side"} title={'Note Taker'} deployLink={"https://sleepy-harbor-45737.herokuapp.com/"} repoLink={"https://github.com/AJLosey/note-taker"} />
 
           </div>
         </div>
