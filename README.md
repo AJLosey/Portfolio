@@ -21,7 +21,7 @@ A page showing various projects I've completed while learning to develop.
         
 ### Installation {#installation}
         
-Download from github, and run npm start. Alternatively, just visit AJLosey.github.io/portfolio
+Download from github, and run npm start. Alternatively, just visit AJLosey.github.io/Portfolio
         
 ### Usage {#usage}
         
