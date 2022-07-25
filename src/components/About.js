@@ -32,7 +32,7 @@ export function About() {
                         full-stack development bootcamp at
                         University of Texas. I
                         live in the South Austin
-                        area. I enjoy javascript and c#, and have training with html, css, jquery, and bootstrap, express, react, mySQL, mongoose, apollo, and handlebars.
+                        area. I enjoy JavaScript and C#, and have training with HTML, CSS, React, jQuery, Bootstrap, Express, MySQL, MongoDB, and Apollo.
                         When
                         I'm not learning code, I'm either learning something about biology, learning about or playing video
                         games, writing, or I'm asleep. </p>
