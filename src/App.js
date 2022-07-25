@@ -12,6 +12,7 @@ import textImg from './images/text-editor.png';
 import triviaImg from './images/Trivia site.png';
 import portImg from './images/Portfolio.png';
 import workdayImg from './images/workday.png';
+import Card from 'react-bootstrap/Card';
 import './App.css';
 
 function App() {
