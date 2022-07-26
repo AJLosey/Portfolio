@@ -37,16 +37,16 @@ function App() {
           </div>
           <div className="col-12 row purp-bg justify-content-between pt-3">
 
-            <Project img={ipsumImg} imgAlt={'The title "Bio Ipsum" and some randomly generated text'} title={'Biological Jargon Lorum Ipsum'} deployLink={"https://ajlosey.github.io/Bio-Ipsum/"} repoLink={"https://github.com/AJLosey/Bio-Ipsum"} />
+            <Project img={portImg} imgAlt={"A portion of the about section of this website"} title={'This Portfolio'} deployLink={"https://ajlosey.github.io/Portfolio/"} repoLink={"https://github.com/AJLosey/Portfolio"} />
 
-            <Project img={skynotesImg} imgAlt={"Buttons for generating music, followed by playlist images with links to listen to them"} title={'Skynotes'} deployLink={"https://mach2258.github.io/Weather-music/"} repoLink={"https://github.com/mach2258/Weather-music"} />
+            <Project img={skynotesImg} imgAlt={"Buttons for generating music, followed by playlist images with links to listen to them"} title={'Skynotes'} deployLink={"https://ajlosey.github.io/Weather-music/"} repoLink={"https://github.com/AJLosey/Weather-music?organization=AJLosey&organization=AJLosey"} />
 
           </div>
           <div className="col-12 row purp-bg justify-content-between">
 
             <Project img={triviaImg} imgAlt={"landing page with buttons for login, signup, quiz categories, etc..."} title={'Trivia Quiz Website'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
 
-            <Project img={codleImg} imgAlt={"wordle but styled with a dark grey theme, and a test comment section"} title={'Codle'} deployLink={"https://codle-jsear.herokuapp.com/"} repoLink={"https://github.com/AJLosey/Codle-1"} />
+            <Project img={textImg} imgAlt={"a header and a black space"} title={'Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
 
           </div>
           <div className="col-12 row purp-bg justify-content-between">
@@ -59,9 +59,9 @@ function App() {
 
           <div className="col-12 row purp-bg justify-content-between">
 
-            <Project img={portImg} imgAlt={"A portion of the about section of this website"} title={'This Portfolio'} deployLink={"https://ajlosey.github.io/Portfolio/"} repoLink={"https://github.com/AJLosey/Portfolio"} />
+            <Project img={ipsumImg} imgAlt={'The title "Bio Ipsum" and some randomly generated text'} title={'Biological Jargon Lorum Ipsum'} deployLink={"https://ajlosey.github.io/Bio-Ipsum/"} repoLink={"https://github.com/AJLosey/Bio-Ipsum"} />
 
-            <Project img={textImg} imgAlt={"a header and a black space"} title={'Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
+            <Project img={codleImg} imgAlt={"wordle but styled with a dark grey theme, and a test comment section"} title={'Codle'} deployLink={"https://codle-jsear.herokuapp.com/"} repoLink={"https://github.com/AJLosey/Codle-1"} />
 
           </div>
 
