@@ -44,7 +44,7 @@ function App() {
           </div>
           <div className="col-12 row purp-bg justify-content-between">
 
-            <Project img={triviaImg} imgAlt={"landing page with buttons for login, signup, quiz categories, etc..."} title={'Trivia Quiz Website'} deployLink={"https://triviabymmaac.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database"} />
+            <Project img={triviaImg} imgAlt={"landing page with buttons for login, signup, quiz categories, etc..."} title={'Trivia Quiz Website'} deployLink={"https://trivia-site-1.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database/tree/AJLoseybranch"} />
 
             <Project img={textImg} imgAlt={"a header and a black space"} title={'Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
 
