@@ -22,7 +22,7 @@ export function Navbar({ setContent }) {
                             <button type="button" className="col-2 version-box" onClick={() => setContent('Contact')}>
                                 Contact Me
                             </button>
-                            <button type="button" className="col-2 version-box" onClick={() => window.location.href = 'https://docs.google.com/document/d/1uhSj90kiZ-EfXiE6jyissWxIbGdlgx_zcItK2FqQcow/edit?usp=sharing'}>
+                            <button type="button" className="col-2 version-box" onClick={() => window.location.href = 'https://drive.google.com/file/d/1svmCsDe8Un3r08_XMLwh3i6kywXOHv56/view?usp=sharing'}>
                                 Resume Link
                             </button>
                         </div>
