@@ -8,7 +8,7 @@ export function Contact() {
                 <p className="h4" id="contact-me">Contact Me</p>
             </div>
             <div className="purp-bg">
-                <ul className="list-group">
+                <ul className="list-group contact-info">
                     <li className="list-group-item purp-bg pl-5">Phone Number: 937-831-8424</li>
                     <li className="list-group-item purp-bg pl-5">Email: aaronlosey11@hotmail.com</li>
                     <li className="list-group-item purp-bg pl-5"><a href="https://github.com/AJLosey">Github Profile</a></li>

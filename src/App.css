@@ -1,11 +1,11 @@
 :root {
-  --dark-accent: rgb(25, 25, 83);
-  --light-accent: rgb(175, 156, 175);
+  --green-accent: #1EB980;
+  --dark-accent: #373740;
 }
 
 .navbar {
-  background-color: var(--light-accent);
-  color: var(--dark-accent);
+  background-color: var(--dark-accent);
+  color: var(--green-accent);
 }
 
 .navbar-text {
@@ -13,36 +13,64 @@
 }
 
 a:link {
-  color: rgb(109, 70, 79);
+  color: var(--dark-accent);
 }
 
 a:visited {
-  color: rgb(109, 70, 79);
+  color: var(--dark-accent);
 }
 
 .version-box {
-  background-color: var(--dark-accent);
-  color: var(--light-accent);
+  background-color: var(--green-accent);
+  color: var(--dark-accent);
   padding: 7px;
   margin-bottom: 5px;
 }
 
 .purp-text {
+  color: whitesmoke;
+}
+
+.card-text {
   color: var(--dark-accent);
 }
 
 .purp-bg {
-  background-color: var(--light-accent);
+  background-color: var(--dark-accent);
 }
 
 .purp-border {
-  border: 5px solid var(--dark-accent);
+  border: 5px solid var(--green-accent) !important;
 }
 
 .card {
-  margin: 15px
+  margin: 15px;
+  height: 40vw;
 }
 
 #work {
   margin-top: 20px;
+}
+
+.btn-primary {
+  background-color: var(--dark-accent) !important;
+  border-color: var(--green-accent) !important;
+  color: whitesmoke;
+}
+
+.contact-info {
+  border: 5px solid var(--green-accent);
+  border-radius: 4px;
+}
+
+.list-group-item {
+  border-radius: 0px !important;
+}
+
+.btn-check:focus+.btn-primary {
+  box-shadow: none !important;
+}
+
+.btn-check:focus+.btn {
+  box-shadow: none !important;
 }

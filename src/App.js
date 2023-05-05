@@ -72,14 +72,16 @@ function App() {
             <Card className="card col-5 purp-border">
               <div className="card-body">
                 <p className="card-text h3">Undeployed Project Repos</p>
+                <p className="card-text"><a href="https://github.com/AJLosey/Clamor" target="_blank"
+                  rel="noopener noreferrer">Clamor</a></p>
                 <p className="card-text"><a href="https://github.com/AJLosey/E-commerce-back-end" target="_blank"
-                  rel="noopener noreferrer">E-commerce Back-end</a></p><br></br>
+                  rel="noopener noreferrer">E-commerce Back-end</a></p>
                 <p className="card-text"><a href="https://github.com/AJLosey/employee-tracker" target="_blank"
-                  rel="noopener noreferrer">Employee Tracker</a></p><br></br>
+                  rel="noopener noreferrer">Employee Tracker</a></p>
                 <p className="card-text"><a href="https://github.com/AJLosey/Team-Profile-Generator" target="_blank"
-                  rel="noopener noreferrer">Team Profile Generator</a></p><br></br>
+                  rel="noopener noreferrer">Team Profile Generator</a></p>
                 <p className="card-text"><a href="https://github.com/AJLosey/Readme-generator" target="_blank"
-                  rel="noopener noreferrer">Readme Generator</a></p><br></br>
+                  rel="noopener noreferrer">Readme Generator</a></p>
               </div>
             </Card>
 
