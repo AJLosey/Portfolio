@@ -53,9 +53,10 @@ a:visited {
 }
 
 .btn-primary {
-  background-color: var(--dark-accent) !important;
-  border-color: var(--green-accent) !important;
-  color: whitesmoke;
+  background-color: var(--green-accent) !important;
+  border: none !important;
+  color: black !important;
+  box-shadow: 0 4px 9px -4px black !important;
 }
 
 .contact-info {
@@ -65,12 +66,4 @@ a:visited {
 
 .list-group-item {
   border-radius: 0px !important;
-}
-
-.btn-check:focus+.btn-primary {
-  box-shadow: none !important;
-}
-
-.btn-check:focus+.btn {
-  box-shadow: none !important;
 }
