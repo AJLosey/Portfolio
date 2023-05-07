@@ -15,7 +15,7 @@ export function Navbar({ setContent }) {
                                     Portfolio for Aaron Losey
                                 </h1>
                             </div>
-                            <MDBBtnGroup aria-label='Navigation'>
+                            <MDBBtnGroup aria-label='Navigation' size='sm col-10 mx-auto'>
                                 <MDBBtn type="button" className="col-2 version-box" onClick={() => setContent('About')}>
                                     About Me
                                 </MDBBtn>
@@ -25,7 +25,7 @@ export function Navbar({ setContent }) {
                                 <MDBBtn type="button" className="col-2 version-box" onClick={() => setContent('Contact')}>
                                     Contact Me
                                 </MDBBtn>
-                                <MDBBtn type="button" className="col-2 version-box" onClick={() => window.location.href = 'https://drive.google.com/file/d/1svmCsDe8Un3r08_XMLwh3i6kywXOHv56/view?usp=sharing'}>
+                                <MDBBtn type="button" className="col-2 version-box" onClick={() => window.open('https://drive.google.com/file/d/1svmCsDe8Un3r08_XMLwh3i6kywXOHv56/view?usp=sharing', '_blank')}>
                                     Resume Link
                                 </MDBBtn>
                             </MDBBtnGroup>

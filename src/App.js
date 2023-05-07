@@ -35,21 +35,21 @@ function App() {
           <div className="col-3">
             <p className="h4" id="work">Work</p>
           </div>
-          <div className="col-12 row purp-bg justify-content-between pt-3">
+          <div className="col-12 row justify-content-between pt-1">
 
             <Project img={portImg} imgAlt={"A portion of the about section of this website"} title={'This Portfolio'} deployLink={"https://ajlosey.github.io/Portfolio/"} repoLink={"https://github.com/AJLosey/Portfolio"} />
 
             <Project img={skynotesImg} imgAlt={"Buttons for generating music, followed by playlist images with links to listen to them"} title={'Skynotes'} deployLink={"https://ajlosey.github.io/Weather-music/"} repoLink={"https://github.com/AJLosey/Weather-music?organization=AJLosey&organization=AJLosey"} />
 
           </div>
-          <div className="col-12 row purp-bg justify-content-between">
+          <div className="col-12 row justify-content-between">
 
             <Project img={triviaImg} imgAlt={"landing page with buttons for login, signup, quiz categories, etc..."} title={'Trivia Quiz Website'} deployLink={"https://trivia-site-1.herokuapp.com/"} repoLink={"https://github.com/AJLosey/trivia-database/tree/AJLoseybranch"} />
 
             <Project img={textImg} imgAlt={"a header and a black space"} title={'Text Editor'} deployLink={"https://limitless-depths-34133.herokuapp.com/"} repoLink={"https://github.com/AJLosey/text-editor"} />
 
           </div>
-          <div className="col-12 row purp-bg justify-content-between">
+          <div className="col-12 row justify-content-between">
 
             <Project img={quizImg} imgAlt={"A timer, question, answers, and high scores option"} title={'Timed Code Quiz'} deployLink={"https://ajlosey.github.io/code-quiz/"} repoLink={"https://github.com/AJLosey/code-quiz"} />
 
@@ -57,7 +57,7 @@ function App() {
 
           </div>
 
-          <div className="col-12 row purp-bg justify-content-between">
+          <div className="col-12 row justify-content-between">
 
             <Project img={ipsumImg} imgAlt={'The title "Bio Ipsum" and some randomly generated text'} title={'Biological Jargon Lorum Ipsum'} deployLink={"https://ajlosey.github.io/Bio-Ipsum/"} repoLink={"https://github.com/AJLosey/Bio-Ipsum"} />
 
@@ -65,11 +65,11 @@ function App() {
 
           </div>
 
-          <div className="col-12 row purp-bg justify-content-between">
+          <div className="col-12 row justify-content-between">
 
             <Project img={workdayImg} imgAlt={"A header, followed by some time blocks with gibberesh saved in the first two"} title={'Scheduler'} deployLink={"https://ajlosey.github.io/Calendar-project/"} repoLink={"https://github.com/AJLosey/Calendar-project"} />
 
-            <Card className="card col-5 purp-border">
+            <Card className="card col-5 purp-border purp-bg">
               <div className="card-body">
                 <p className="card-text h3">Undeployed Project Repos</p>
                 <p className="card-text"><a href="https://github.com/AJLosey/Clamor" target="_blank"

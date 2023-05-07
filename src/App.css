@@ -13,7 +13,7 @@
 }
 
 a:link {
-  color: var(--dark-accent);
+  color: whitesmoke;
 }
 
 a:visited {
@@ -32,7 +32,7 @@ a:visited {
 }
 
 .card-text {
-  color: var(--dark-accent);
+  color: whitesmoke;
 }
 
 .purp-bg {
@@ -46,9 +46,14 @@ a:visited {
 .card {
   margin: 15px;
   height: 40vw;
+  background-color: var(--dark-accent) !important;
 }
 
 #work {
+  margin-top: 20px;
+}
+
+#about-me {
   margin-top: 20px;
 }
 
@@ -66,4 +71,6 @@ a:visited {
 
 .list-group-item {
   border-radius: 0px !important;
+  background-color: var(--dark-accent) !important;
+  color: whitesmoke !important;
 }

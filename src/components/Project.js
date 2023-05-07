@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 
 export function Project(props) {
     return (
-        <Card className="card col-5 purp-border card-text">
+        <Card className="card col-5 purp-border card-text purp-bg">
             <img src={props.img} className="card-img-top"
                 alt={props.imgAlt} />
             <div className="card-body">
